@@ -33,14 +33,6 @@
             <div class="seta-voltar"><img src="/camadaOne/img/left-arrow.png" alt=""></div>
             <div class="seta-avancar"><img src="/camadaOne/img/right-arrow.png" alt=""></div>
         </section>
-
-
-        <section class="quem-somos">  
-            <div class="wrapper-quem-somos">
-                <h2>testando</h2>
-            </div>
-        </section>
-
     </main>
 
     <section>
