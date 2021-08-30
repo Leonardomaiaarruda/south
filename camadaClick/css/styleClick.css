@@ -32,7 +32,7 @@
         background-image: linear-gradient(to top, rgba(3, 3, 3,0.01), rgba(3, 3, 3,0.9));   
     }
     
-    header .logo{
+    .logo{
         margin:0px 80px;
         
         width: 100px;
@@ -44,20 +44,20 @@
         border-radius: 50%;
     }
     
-    header .logo img{
+    .logo img{
         width:100%;
         height:100%;
         transform: scale(1.66);           
     }
     
-    header nav.menu-navegation{
+    nav.menu-navegation{
     text-align: center;
     }
     
-    header ul{
+    nav ul{
         list-style-type:none;
     }
-    header nav li{
+    nav li{
         margin:0 25px;
     
         display: inline-block;
@@ -70,10 +70,10 @@
         cursor: pointer;
     }
     
-    header nav li:hover{
+     nav li:hover{
         background-color: rgba(10, 60, 199, 0.5);
     }
-    header a{
+    nav a{
         text-decoration: none;
         color:white;
     }

@@ -13,7 +13,7 @@
         <nav class="menu-navegation">
             <ul>
                 <li><a href="/index.html">HOME</a></li>
-                <li><a href="/camadaClick/html/quemSomos.html">EMPRESA</a></li>
+                <li><a href="quemSomos.html">EMPRESA</a></li>
                 <li><a href="#">REFORMAS</a></li>
                 <li><a href="#">ENGENHEIRA</a></li>
                 <li><a href="#">CONTATO</a></li>
