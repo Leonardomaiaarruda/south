@@ -29,8 +29,7 @@
         /*Tipografia*/
         /*Modificador*/
         z-index: 1;
-        background-image: linear-gradient(to top, rgba(3, 3, 3,0.01), rgba(3, 3, 3,0.9));
-        
+        background-image: linear-gradient(to top, rgba(3, 3, 3,0.01), rgba(3, 3, 3,0.9));   
     }
     
     header .logo{
@@ -38,8 +37,8 @@
         
         width: 100px;
         height:100px;
-
         background-color:black;
+        
         font-size: 30px;
 
         border-radius: 50%;
@@ -72,7 +71,7 @@
     }
     
     header nav li:hover{
-        background-color: rgb(5, 168, 168);
+        background-color: rgba(10, 60, 199, 0.5);
     }
     header a{
         text-decoration: none;

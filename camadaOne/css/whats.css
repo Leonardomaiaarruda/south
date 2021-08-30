@@ -1,0 +1,32 @@
+.whats{
+    position: absolute;
+    bottom:0px;
+    line-height:60px;
+
+    display: flex;
+    justify-content: center;
+    width:100%;
+    padding:10px;
+    background-image: linear-gradient(to top, rgba(2, 25, 54, 1), rgba(22, 50, 85, 0.6));
+}
+.whats img{
+    animation: movimentacao 4s infinite;
+    cursor: pointer;
+}
+
+.whats h2{
+    color:white;
+    font-size: 16px;
+    margin-left: 10px;
+}
+@keyframes movimentacao {
+    0%{
+        transform: scale(0.8);
+    }
+    50%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(0.8);
+    }
+}
